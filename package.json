@@ -11,6 +11,10 @@
     "deviceorientation",
     "devicemotion"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoppula/react-device-events.git"
+  },
   "author": "Lari Hoppula (lari@hoppula.com)",
   "license": "MIT",
   "peerDependencies": {
