@@ -1,0 +1,19 @@
+{
+  "name": "react-device-events",
+  "version": "1.0.0",
+  "description": "Provides React HoCs for DeviceOrientation & DeviceMotion events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "deviceorientation",
+    "devicemotion"
+  ],
+  "author": "Lari Hoppula (lari@hoppula.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^0.14.3"
+  }
+}
